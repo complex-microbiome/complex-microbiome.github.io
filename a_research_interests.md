@@ -20,10 +20,17 @@ nav-menu: true
 Animals and plants host diverse microbial communities, collectively referred to as their microbiota. The members therein may pose a positive (mutualistic), negative (pathogenic), or neutral (commensal) effect on host fitness. Past work demonstrates that many hosts rely on mutualistic microbiota to provide functions such as enhanced resource utilization, defense against pathogenic microbiota or predators, and production of compounds and conditions which support host development. Therefore, understanding the identity and necessity of these functions, as well as the mechanisms evolved to maintain host-symbiont interactions, is crucial to understanding host evolution and ecology.
 
 In light of this, I am interested in researching:
-1) Functional annotation: Uncovering the functions provided to hosts by mutualistic symbionts,
-2) Maintenance of interactions: Investigating the mechanisms evolved by hosts and symbionts to maintian host-symbiont interactions across generations and life stages,
-and 3) Developmental Complexity: Examining how these functions and mechanisms are influenced by the host's developmental cycle. 
+</div>
+	<div class="6u$ 12u$(small)">
 
+		<h4>Ordered</h4>
+		<ol>
+			<li>Functional annotation: Uncovering the functions provided to hosts by mutualistic symbionts,</li>
+			<li>Maintenance of interactions: Investigating the mechanisms evolved by hosts and symbionts to maintian host-symbiont interactions across generations and life stages,</li>
+			<li>Developmental Complexity: Examining how these functions and mechanisms are influenced by the host's developmental cycle.</li>
+		</ol>
+
+	</div>
 Below are some of the specific topics I am currently, or have recently, been working on:
 </p>
 	</div>
