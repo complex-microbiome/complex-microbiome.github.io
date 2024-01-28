@@ -9,7 +9,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<section>
 	<div class="inner">
 		<header class="major">
 			<h2><i>In Review</i></h2>
@@ -21,7 +21,7 @@ nav-menu: true
 
 
 <!-- Two -->
-<section id="two">
+<section>
 	<div class="inner">
 		<header class="major">
 			<h2><i>In Press</i></h2>
