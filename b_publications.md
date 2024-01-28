@@ -5,6 +5,9 @@ image: null
 nav-menu: true
 ---
 
+<!-- Main -->
+<div id="main">
+
 <!-- Review -->
 	<div class="inner">
 		<header class="major">
