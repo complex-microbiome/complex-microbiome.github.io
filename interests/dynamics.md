@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: "assets/images/circle_graph.jpg"
+image: null
 nav-menu: true
 ---
 
