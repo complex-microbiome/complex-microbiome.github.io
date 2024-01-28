@@ -8,7 +8,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- Break -->
 <section>
 	<div class="inner">
 		<header class="major">
@@ -20,7 +20,7 @@ nav-menu: true
 
 
 
-<!-- Two -->
+<!-- Break -->
 <section>
 	<div class="inner">
 		<header class="major">
