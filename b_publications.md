@@ -5,10 +5,7 @@ image: null
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main">
-
-<!-- Break -->
+<!-- Review -->
 	<div class="inner">
 		<header class="major">
 			<h2><i>In Review</i></h2>
@@ -18,7 +15,7 @@ nav-menu: true
 
 
 
-<!-- Break -->
+<!-- Press -->
 	<div class="inner">
 		<header class="major">
 			<h2><i>In Press</i></h2>
