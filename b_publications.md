@@ -8,6 +8,13 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+<!-- One -->
+[Rohner P.T.](https://rohnerlab.biosci.ucsd.edu){:target="_blank"}, <b>Jones J.A.</b>, [Moczek A.P.](https://ecoevodevo.com){:target="_blank"} 2024. Plasticity, symbionts, and niche construction interact in shaping dung beetle development and evolution. <b>Journal of Experimental Biology</b>, <i>in press.</i> 
+<div> 
+<!-- Two -->
+<b>Jones J.A.</b>, [Newton I.G.](https://discogenome.wordpress.com){:target="_blank"}, [Moczek A.P.](https://ecoevodevo.com){:target="_blank"} The dynamic dung beetle microbiome: insights into life stage bottlenecks, microbiome assembly, and host-constructed microbial refugia. <i>in review.</i>
+<div>
+
 <!-- Two -->
 <div>
 <section id="two" class="spotlights">
