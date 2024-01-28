@@ -10,8 +10,7 @@ nav-menu: true
 
 <!-- One -->
 <h2 id="content">*In Press*</h2>
-
-[Rohner P.T.](https://rohnerlab.biosci.ucsd.edu){:target="_blank"}, **Jones J.A.**, [Moczek A.P.](https://ecoevodevo.com){:target="_blank"} 2024. Plasticity, symbionts, and niche construction interact in shaping dung beetle development and evolution. **Journal of Experimental Biology**, *in press.*  
+<p><a href="https://rohnerlab.biosci.ucsd.edu">Rohner P.T.</a> , <b>Jones J.A.</b>, <a href="https://ecoevodevo.com">Moczek A.P.</a> 2024. Plasticity, symbionts, and niche construction interact in shaping dung beetle development and evolution. **Journal of Experimental Biology**, <i>in press.</i> </p>
 
 <!-- Two -->
 <h2 id="content">*In Review*</h2>
