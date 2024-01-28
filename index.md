@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I'm a 5th year Ph. D. candidate researching in the [Moczek Lab](https://ecoevodevo.com/) at Indiana University. I am broadly intersted in the ways organisms interact with the complex microbial communities inhabiting them and, more specifically, what traits may have been evolved by those host organisms to maintain and control those communities across generations and life stages.
