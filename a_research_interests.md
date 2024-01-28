@@ -78,7 +78,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
