@@ -1,6 +1,6 @@
 ---
 title: CV
-layout: post
+layout: cv
 description: 'Click for a more detailed list of my current research interests.'
 image: null
 nav-menu: true
