@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="interests/dynamics.html" class="image">
+		<a href="interests/dynamics.html" class="image left">
 			<img src="{% link assets/images/circle_graph.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -22,7 +22,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="interests/dynamics.html" class="image">
+		<a href="interests/dynamics.html" class="image left">
 			<img src="{% link assets/images/circle_graph.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
