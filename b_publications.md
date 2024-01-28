@@ -1,15 +1,36 @@
 ---
 title: Publications
-layout: landing
-image: assets/images/pic07.jpg
+layout: post
+image: null
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main">
 
-
 <!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1><i>In Review</i></h1>
+		</header>
+		<p><b>Jones JA</b>, <a href="https://discogenome.wordpress.com">Newton IG.</a>, <a href="https://ecoevodevo.com">Moczek A.P.</a>. The dynamic dung beetle microbiome: insights into life stage bottlenecks, microbiome assembly, and host-constructed microbial refugia. <i>in review.</i>
+		</p>
+</section>
+
+
+
+<!-- Two -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1><i>In Press</h1>
+		</header>
+		<p><b>Jones JA</b>, <a href="https://discogenome.wordpress.com">Newton IG.</a>, <a href="https://ecoevodevo.com">Moczek A.P.</a>. The dynamic dung beetle microbiome: insights into life stage bottlenecks, microbiome assembly, and host-constructed microbial refugia. <i>in review.</i>
+		</p>
+</section>
+
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="interests/dynamics.html" class="image left">
