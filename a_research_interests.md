@@ -39,7 +39,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="interests/dynamics.html" class="image">
 			<img src="{% link assets/images/circle_graph.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
