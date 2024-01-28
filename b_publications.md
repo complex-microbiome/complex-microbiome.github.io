@@ -9,6 +9,7 @@ nav-menu: true
 <div id="main">
 
 <!-- Two -->
+<div>
 <h2 id="content">in press</h2>
 <section id="two" class="spotlights">
 	<section>
@@ -30,6 +31,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
+<div>
 <h2 id="content">in review</h2>
 <section id="two" class="spotlights">	
 	<section>
