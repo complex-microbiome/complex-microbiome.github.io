@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 		<p><b>Jones JA</b>, <a href="https://discogenome.wordpress.com">Newton IG.</a>, <a href="https://ecoevodevo.com">Moczek A.P.</a>. The dynamic dung beetle microbiome: insights into life stage bottlenecks, microbiome assembly, and host-constructed microbial refugia. <i>in review.</i>
 		</p>
-</section>
+
 <!-- Press -->
 <secton>
 	<div class="inner">
