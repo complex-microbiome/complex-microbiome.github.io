@@ -42,7 +42,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 				</header>
 				<p>I am interested in how hosts with intricate life cycles (e.g., insects, plants, amphibians) maintain beneficial symbionts during development. Specifically, I am interested in investigating changes in microbiota community structure and function across different life stages. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="interests/dynamics.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,18 +80,3 @@ Below are some of the specific topics I am currently, or have recently, been wor
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
-
-</div>
