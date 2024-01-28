@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="interests/dynamics.html" class="image left">
-			<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+			<div class="4u"><span class="image left"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		</a>
 		<div class="content">
 			<div class="inner">
