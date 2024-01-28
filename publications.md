@@ -1,7 +1,6 @@
 ---
-title: Research Interests
+title: Publications
 layout: landing
-description: 'Click for a more detailed list of my current research interests.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
