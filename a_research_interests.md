@@ -50,23 +50,20 @@ Below are some of the specific topics I am currently, or have recently, been wor
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Utilizing shotgun-metagenomic sequencing to probe the role of microbes in host development</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Many hosts rely on the metabolic abilities of their microbiome in order to benefit from their diets. For example, ruminants, such as cows, have specialized stomachs to allow for the accumulation of large and diverse communities of microbes which ferment the nutrient-poor and hard to digest plant diet into simpler resources which the ruminant can utilize. Measuring the metabolic potential of an organism’s gut microbiome can help to understand how that organism has evolved to utilize its diet. <i>Onthophagus taurus</i> utilizes herbivore dung for reproduction and food yet herbivore dung is low in essential amino acids and high in complex polysaccharides, making it a difficult diet to digest. I am analyzing a project aiming to characterize the genes within the <i>O. taurus</i> gut microbiome to determine their potential function in allowing the beetles to consume herbivore dung as a diet.</p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="immunity.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -74,10 +71,23 @@ Below are some of the specific topics I am currently, or have recently, been wor
 				<header class="major">
 					<h3>Influence of inherited microbiota on immunity</h3>
 				</header>
-				<p>How may the inheritance of beneficial, or commensal, symbionts influence a host's ability to defend against and overcome infectious pathogens? How might environmental conditions influence any of these affects? Has host reliance on microbiome-mediated immune responses diversified across micro and/or macroevolutionary scales?</p>
-				<ul class="actions">
-					<li><a href="immunity.html" class="button">Learn more</a></li>
-				</ul>
+				<p>How may the inheritance of beneficial, or commensal, symbionts influence a host's ability to defend against and overcome infectious pathogens? How might environmental conditions influence any of these affects? Has host reliance on microbiome-mediated immune responses diversified across micro and/or macroevolutionary scales?
+				<div>
+				One specific benefit microbial partners may provide for their host is immune system stimulation. For example, studies suggest that supplementation of heritable microbiota to infants can significantly reduce conditions linked to immune system hypersensitivity, such as asthma and eczema (O’Neill et al., 2017), while increasing defense against potentially pathogenic invaders (Duar et al., 2020). Yet the mechanisms by which microbial associations interact with immune system components remain poorly understood outside few model systems and laboratory settings, and their contributions to host evolution and adaptation remain largely unexplored. I am currently working on a project to characterize the role of microbiota in determining the potential and functional immunity of an insect host and assessing the nature and degree of divergence among host species and populations in their reliance on microbiome-mediated immunity.
+				</p>
+			</div>
+		</div>
+	</section>
+		<section>
+		<a class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Developmental and fitness effects of functionally relevant bacterial isolates</h3>
+				</header>
+				<p>Modern sequencing techniques allow researchers to gain large amounts of data on the compositional and functional aspects of the microbiome and to form hypotheses as to how those organisms interact with their hosts and environments. These techniques, however, are best supplemented with empirical testing to document the exact nature of these interactions. To test the hypothesis that host-associated microbes, implicated through amplicon/metagenomic sequencing studies are indeed beneficial, I aim to introduce these microbes into otherwise microbiome-free hosts and measure the resulting effects on host development and fitness.</p>
 			</div>
 		</div>
 	</section>
