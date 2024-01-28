@@ -78,7 +78,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 			</div>
 		</div>
 	</section>
-	<section>
+		<section>
 		<a class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -87,7 +87,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 				<header class="major">
 					<h3>Developmental and fitness effects of functionally relevant bacterial isolates</h3>
 				</header>
-				<p>Modern sequencing techniques allow researchers to gain large amounts of data on the compositional and functional aspects of the microbiome and to form hypotheses as to how those organisms interact with their hosts and environments. These techniques, however, are best supplemented with empirical testing to document the exact nature of these interactions. To test the hypothesis that host-associated microbes, implicated through amplicon/metagenomic sequencing studies are indeed beneficial, I aim to introduce these microbes into otherwise microbiome-free hosts and measure the resulting effects on host development and fitness.</p>
+				<p>Modern sequencing techniques allow researchers to gain large amounts of data on the compositional and functional aspects of the microbiome and to form hypotheses as to how those organisms interact with their hosts and environments. These techniques, however, are best supplemented with empirical testing to document the exact nature of these relationships. To test the hypothesis that host-associated microbes, implicated through amplicon/metagenomic sequencing studies are indeed beneficial, I aim to introduce these microbes into otherwise microbiome-free hosts and measure the resulting effects on host development and fitness.</p> 
 			</div>
 		</div>
 	</section>
