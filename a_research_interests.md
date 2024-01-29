@@ -2,7 +2,7 @@
 title: Research Interests
 layout: landing
 description: 'Click for a more detailed list of my current research interests.'
-image: assets/images/pic07.jpg
+image: null
 nav-menu: true
 ---
 
@@ -35,7 +35,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 <section id="two" class="spotlights">
 	<section>
 		<a href="interests/dynamics.html" class="image">
-			<img src="{% link assets/images/circle_graph.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/family_circle.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -51,7 +51,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/larva_1.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -64,7 +64,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/Larval_community_assembly.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -81,7 +81,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 	</section>
 		<section>
 		<a class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/Circular_life_cycle.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
