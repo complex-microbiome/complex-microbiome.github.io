@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Josh'
 description: null
-image: null
+image: assets/images/pupal_chamber_w_larvae
 author: null
 show_tile: false
 ---
