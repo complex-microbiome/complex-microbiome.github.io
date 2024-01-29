@@ -2,7 +2,7 @@
 title: Research Interests
 layout: landing
 description: 'Click for a more detailed list of my current research interests.'
-image: pupal_chamber_w_larvae
+image: assets/images/pupal_chamber_w_larvae.png
 nav-menu: true
 ---
 
