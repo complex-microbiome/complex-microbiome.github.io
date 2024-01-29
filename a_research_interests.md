@@ -64,7 +64,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/Larval_community_assembly.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/Larval_community_assembly.webp %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
