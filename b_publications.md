@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2><i>In Review</i></h2>
 		</header>
-		<p><b>Jones JA</b>, <a href="https://discogenome.wordpress.com" target="_blank">Newton IG.</a>, <a href="https://ecoevodevo.com" target="_blank">Moczek A.P.</a>. The dynamic dung beetle microbiome: insights into life stage bottlenecks, microbiome assembly, and host-constructed microbial refugia. <i>in review.</i>
+		<p><b>Jones J.A.</b>, <a href="https://discogenome.wordpress.com" target="_blank">Newton I.G.</a>, <a href="https://ecoevodevo.com" target="_blank">Moczek A.P.</a>. The dynamic dung beetle microbiome: insights into life stage bottlenecks, microbiome assembly, and host-constructed microbial refugia. <i>in review.</i>
 		</p>
 	</div>
 </section>
