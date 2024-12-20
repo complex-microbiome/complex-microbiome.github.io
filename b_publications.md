@@ -19,15 +19,28 @@ nav-menu: true
 </section>
 <section>
 <div class="tile_div">
-    <button onclick="window.location.href='https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra';target="_blank"">
+    <button onclick="window.location.href='https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra';">
       GOOGLE SCHOLAR
     </button>
-        <button onclick="window.location.href='https://orcid.org/0000-0003-2010-861X'target="_blank";">
+        <button onclick="window.location.href='https://orcid.org/0000-0003-2010-861X';">
       ORCiD
     </button>
     <div class="clear"></div>
 </div>
 </section>
+
+<section>
+<div class="tile_div">
+     <button class="btn btn-success" onclick=" window.open('https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra','_blank')"> 
+	 GOOGLE SCHOLAR
+	 </button>
+     <button class="btn btn-success" onclick=" window.open('https://orcid.org/0000-0003-2010-861X','_blank')"> 
+	 ORCiD
+	 </button>
+    <div class="clear"></div>
+</div>
+</section>
+
 
 <!-- Prep -->
 <section>
