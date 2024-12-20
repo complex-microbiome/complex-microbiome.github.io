@@ -11,19 +11,12 @@ nav-menu: true
 
 <!-- Quick Links -->
 <section>
-	<div class="inner">
-		<html>
-  <head>
-    <title>GOOGLE SCHOLAR</title>
-  </head>
-  <body>
-    <button onclick="window.location.href='https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra';">
-      GOOGLE SCHOLAR
-    </button>
-  </body>
-</html>
-	</div>
-</section>
+<div class="tile_div">
+    <a href="https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra">GOOGLE SCHOLAR</a>
+    <a href="https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra">ORCiD</a>
+    <div class="clear"></div>
+</div>
+
 
 
 <!-- Prep -->
