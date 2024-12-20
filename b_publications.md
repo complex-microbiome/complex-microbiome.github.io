@@ -28,7 +28,7 @@ nav-menu: true
 		<header class="major">
 			<h2><i>In Press</i></h2>
 		</header>
-			<p>Nadolski EM, <a href="https://phillipdavidson.github.io/research.html" target="_blank">Davidson P.L.</a>, <b>Jones J.A.</b>, <a href="https://rrwestwick.wixsite.com/home" target="_blank">Westwick R.R.</a>, <a href="https://ecoevodevo.com" target="_blank">Moczek A.P.</a>. Insects in their Environments: eco-devo and evo-devo perspectives. Comprehensive Insect Physiology and Biochemistry Vol. 2.
+			<p><a href="https://ericanadolski.github.io/index.html" target="_blank">Nadolski E.M.</a>, <a href="https://phillipdavidson.github.io/research.html" target="_blank">Davidson P.L.</a>, <b>Jones J.A.</b>, <a href="https://rrwestwick.wixsite.com/home" target="_blank">Westwick R.R.</a>, <a href="https://ecoevodevo.com" target="_blank">Moczek A.P.</a>. Insects in their Environments: eco-devo and evo-devo perspectives. Comprehensive Insect Physiology and Biochemistry Vol. 2.
 			</p>
 	</div>
 </section>
