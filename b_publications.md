@@ -19,10 +19,10 @@ nav-menu: true
 </section>
 <section>
 <div class="tile_div">
-    <button onclick="window.location.href='https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra';">
+    <button onclick="window.location.href='https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra';target="_blank"">
       GOOGLE SCHOLAR
     </button>
-        <button onclick="window.location.href='https://orcid.org/0000-0003-2010-861X';">
+        <button onclick="window.location.href='https://orcid.org/0000-0003-2010-861X'target="_blank";">
       ORCiD
     </button>
     <div class="clear"></div>
