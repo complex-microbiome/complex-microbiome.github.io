@@ -43,9 +43,7 @@ Below are some of the specific topics I am currently, or have recently, been wor
 					<h3>Microbiome Dynamics Across Complex Life Cycles</h3>
 				</header>
 				<p>I am interested in how hosts with intricate life cycles (e.g., insects, plants, amphibians) maintain beneficial symbionts during development. Specifically, I am interested in investigating changes in microbiota community structure and function across different life stages. </p>
-				<ul class="actions">
-					<li><a href="interests/dynamics.html" class="button">Learn more</a></li>
-				</ul>
+				<p><a href="https://doi.org/10.1128/aem.01278-24" target="_blank">Jones et al., 2024</a>  </p>
 			</div>
 		</div>
 	</section>
