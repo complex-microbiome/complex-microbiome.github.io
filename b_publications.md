@@ -9,8 +9,17 @@ nav-menu: true
 <div id="main">
 </div>
 
-<!-- Quick Links -->
- <button onclick="https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra">GOOGLE SCHOLAR</button> 
+#<!-- Quick Links -->
+<html>
+  <head>
+    <title>GOOGLE SCHOLAR</title>
+  </head>
+  <body>
+    <button onclick="window.location.href='https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra';">
+      GOOGLE SCHOLAR
+    </button>
+  </body>
+</html>
 
 <!-- Prep -->
 <section>
