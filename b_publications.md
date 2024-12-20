@@ -9,6 +9,9 @@ nav-menu: true
 <div id="main">
 </div>
 
+<!-- Quick Links -->
+ <button onclick="document.location='default.asp'">HTML Tutorial</button> 
+
 <!-- Prep -->
 <section>
 	<div class="inner">
