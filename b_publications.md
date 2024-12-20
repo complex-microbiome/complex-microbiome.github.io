@@ -13,11 +13,21 @@ nav-menu: true
 <section>
 <div class="tile_div">
     <a href="https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra">GOOGLE SCHOLAR</a>
-    <a href="https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra">ORCiD</a>
+    <a href="https://orcid.org/0000-0003-2010-861X">ORCiD</a>
     <div class="clear"></div>
 </div>
-
-
+</section>
+<section>
+<div class="tile_div">
+    <button onclick="window.location.href='https://scholar.google.com/citations?user=kb6WiPEAAAAJ&hl=en&oi=sra';">
+      GOOGLE SCHOLAR
+    </button>
+        <button onclick="window.location.href='https://orcid.org/0000-0003-2010-861X';">
+      ORCiD
+    </button>
+    <div class="clear"></div>
+</div>
+</section>
 
 <!-- Prep -->
 <section>
