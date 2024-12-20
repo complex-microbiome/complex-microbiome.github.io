@@ -9,8 +9,10 @@ nav-menu: true
 <div id="main">
 </div>
 
-#<!-- Quick Links -->
-<html>
+<!-- Quick Links -->
+<section>
+	<div class="inner">
+		<html>
   <head>
     <title>GOOGLE SCHOLAR</title>
   </head>
@@ -20,6 +22,9 @@ nav-menu: true
     </button>
   </body>
 </html>
+	</div>
+</section>
+
 
 <!-- Prep -->
 <section>
